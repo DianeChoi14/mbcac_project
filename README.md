@@ -20,7 +20,7 @@
 
    
       
-<a name="code1">code1</a>
+<a name="code1">code1</a>  
 ## 아래의 코드를 참고하세요
 ```jsp
 <%@ page language="java" contentType="text/html; charset=UTF-8"
@@ -45,7 +45,9 @@
 
 
 
-<a name="code2">code2</a> [go to top](#top)
+<a name="code2">code2</a>  
+[go to top](#top)  
+
 Github
 팀 프로젝트 코드 공유
 https://github.com 
@@ -69,7 +71,9 @@ https://github.com
 
 
  
-<a name="code3">code3</a> [go to top](#top)
+<a name="code3">code3</a>   
+[go to top](#top)  
+
  -git설치
 1. cmd에 ‘git —version’을 검색해서 실행되는지 확인
 2. https://git-scm.com 에서 우측 중앙의 ‘Download for Windows’버튼 클릭
@@ -86,7 +90,9 @@ https://github.com
 
 
 
-<a name="code4">code4</a> [go to top](#top)
+<a name="code4">code4</a>   
+[go to top](#top)  
+
  - 리파짓토리 만들기
 1. 우측 상단 프로필 클릭
 2. ‘New Repository’
@@ -118,7 +124,9 @@ https://github.com
 	-링크만들기 : 웹주소를 넣기
 
 
-<a name="code5">code5</a> [go to top](#top)
+<a name="code5">code5</a>   
+[go to top](#top)  
+
  -마크다운 문법
 # : jsp에서 <h1>태그와 같은 기능
 ## : <h2>태그와 같은 기능
@@ -130,4 +138,6 @@ https://gist.github.com/luigiMinardi/4574708d404cdf4fe0da7ac6fe2314db
 
 
 
-<a name="code6">code6</a> [go to top](#top)
+
+[go to top](#top)  
+
