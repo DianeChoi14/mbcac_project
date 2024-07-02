@@ -3,14 +3,21 @@
 # mbcac_project
 ## 팀 프로젝트 안내
 
-* 주제 : [Github](#code1)
+* 주제 : Github
 * 기간 : 3달
-  + 1달:[분석](#code2)
-  + 1달:[설계](#code3)
-  + 1달:[구현](#code4)
+  + 1달:분석
+  + 1달:설계
+  + 1달:구현
     - 1주:로그인
     - 2주:게시판
     - 3주:뉴스
+
+* [code1](#code1)
+* [code2](#code2)
+  - [code3](#code3)
+  - [code4](#code4)
+     +[code5](#code5)
+
    
       
 <a name="code1">code1</a>
