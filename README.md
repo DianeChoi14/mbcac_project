@@ -5,7 +5,7 @@
 * 기간 : 3달
   + 1달:분석
   + 1달:설계
-  + 1달:<div style="color:red;">구현</div>
+  + 1달:구현
     - 1주:로그인
     - 2주:게시판
     - 3주:뉴스
@@ -29,3 +29,4 @@
 <c:set var="bnum" value="${dao.addBnum(b)}"></c:set>
 {"added":${num>0},"bnum":${bnum}}
 ```
+[github마크다운으로 색상설정하기](https://gist.github.com/luigiMinardi/4574708d404cdf4fe0da7ac6fe2314db)
