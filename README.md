@@ -1,15 +1,15 @@
 # mbcac_project
 ## 팀 프로젝트 안내
-```jsp
+
 * 주제 : 열심히 하자
 * 기간 : 3달
   + 1달:분석
   + 1달:설계
-  + 1달:<span style="color:red;">구현</span>
+  + 1달:<div style="color:red;">구현</div>
     - 1주:로그인
     - 2주:게시판
     - 3주:뉴스
-```
+
 ## 아래의 코드를 참고하세요
 ```jsp
 <%@ page language="java" contentType="text/html; charset=UTF-8"
